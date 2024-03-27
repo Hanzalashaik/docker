@@ -1,0 +1,25 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanzalashaik/docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanzalashaik/docker/issues"
+  },
+  "homepage": "https://github.com/Hanzalashaik/docker#readme",
+  "dependencies": {
+    "config": "^3.3.11",
+    "express": "^4.19.2"
+  }
+}
